@@ -1,0 +1,41 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+    <g fill="#FFFFFF">
+        <!-- Headband -->
+        <circle cx="40" cy="36" r="3"/>
+        <circle cx="48" cy="28" r="3"/>
+        <circle cx="56" cy="24" r="3"/>
+        <circle cx="64" cy="20" r="3"/>
+        <circle cx="72" cy="24" r="3"/>
+        <circle cx="80" cy="28" r="3"/>
+        <circle cx="88" cy="36" r="3"/>
+
+        <!-- Left earcup -->
+        <circle cx="28" cy="52" r="4"/>
+        <circle cx="28" cy="60" r="4"/>
+        <circle cx="28" cy="68" r="4"/>
+        <circle cx="28" cy="76" r="4"/>
+
+        <circle cx="36" cy="52" r="4"/>
+        <circle cx="36" cy="60" r="4"/>
+        <circle cx="36" cy="68" r="4"/>
+        <circle cx="36" cy="76" r="4"/>
+
+        <!-- Right earcup -->
+        <circle cx="92" cy="52" r="4"/>
+        <circle cx="92" cy="60" r="4"/>
+        <circle cx="92" cy="68" r="4"/>
+        <circle cx="92" cy="76" r="4"/>
+
+        <circle cx="100" cy="52" r="4"/>
+        <circle cx="100" cy="60" r="4"/>
+        <circle cx="100" cy="68" r="4"/>
+        <circle cx="100" cy="76" r="4"/>
+
+        <!-- Connectors -->
+        <circle cx="40" cy="44" r="3"/>
+        <circle cx="40" cy="52" r="3"/>
+
+        <circle cx="88" cy="44" r="3"/>
+        <circle cx="88" cy="52" r="3"/>
+    </g>
+</svg>

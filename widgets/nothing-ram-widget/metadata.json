@@ -1,12 +1,12 @@
 {
     "KPlugin": {
-        "Authors": [{ "Email": "", "Name": "Nothing RAM Chart" }],
-        "Category": "System Information",
-        "Description": "Nothing OS styled RAM usage widget with dotted chart",
+        "Authors": [{ "Email": "", "Name": "Nothing RAM Widget" }],
+        "Category": "Date and Time",
+        "Description": "Nothing OS styled RAM usage widget",
         "Icon": "/icon.png",
         "Id": "nothing-ram-widget",
         "License": "GPL-2.0-or-later",
-        "Name": "Nothing RAM Chart",
+        "Name": "Nothing RAM",
         "Version": "1.0"
     },
     "KPackageStructure": "Plasma/Applet",

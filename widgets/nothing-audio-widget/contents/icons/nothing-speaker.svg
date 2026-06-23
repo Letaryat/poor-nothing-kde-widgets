@@ -1,0 +1,40 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+    <g fill="#FFFFFF">
+        <!-- Speaker body -->
+        <circle cx="28" cy="56" r="4"/>
+        <circle cx="28" cy="64" r="4"/>
+        <circle cx="28" cy="72" r="4"/>
+
+        <circle cx="36" cy="52" r="4"/>
+        <circle cx="36" cy="60" r="4"/>
+        <circle cx="36" cy="68" r="4"/>
+        <circle cx="36" cy="76" r="4"/>
+
+        <circle cx="44" cy="48" r="4"/>
+        <circle cx="44" cy="56" r="4"/>
+        <circle cx="44" cy="64" r="4"/>
+        <circle cx="44" cy="72" r="4"/>
+        <circle cx="44" cy="80" r="4"/>
+
+        <circle cx="52" cy="44" r="4"/>
+        <circle cx="52" cy="52" r="4"/>
+        <circle cx="52" cy="60" r="4"/>
+        <circle cx="52" cy="68" r="4"/>
+        <circle cx="52" cy="76" r="4"/>
+        <circle cx="52" cy="84" r="4"/>
+
+        <!-- Sound waves -->
+        <circle cx="72" cy="52" r="3"/>
+        <circle cx="72" cy="76" r="3"/>
+
+        <circle cx="80" cy="44" r="3"/>
+        <circle cx="80" cy="60" r="3"/>
+        <circle cx="80" cy="68" r="3"/>
+        <circle cx="80" cy="84" r="3"/>
+
+        <circle cx="92" cy="36" r="3"/>
+        <circle cx="92" cy="52" r="3"/>
+        <circle cx="92" cy="76" r="3"/>
+        <circle cx="92" cy="92" r="3"/>
+    </g>
+</svg>

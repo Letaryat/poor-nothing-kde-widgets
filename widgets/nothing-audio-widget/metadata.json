@@ -1,0 +1,16 @@
+{
+    "KPlugin": {
+        "Authors": [{ "Email": "", "Name": "Nothing Audio Switcher" }],
+        "Category": "Multimedia",
+        "Description": "Nothing OS styled audio output switcher (Line Out / Headphones)",
+        "Icon": "audio-headphones",
+        "Id": "nothing-audio-widget",
+        "License": "GPL-2.0-or-later",
+        "Name": "Nothing Audio Switcher",
+        "Version": "1.1"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml"
+}
